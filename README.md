@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Superjim
+👋 Hi, I’m @Superjim
 
 [Pokemon Memory Card Game](https://github.com/Superjim/memeory-card-game)
 
