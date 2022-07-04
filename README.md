@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superjim
 
-[Memory Card Game](https://github.com/Superjim/memeory-card-game)
+[Pokemon Memory Card Game](https://github.com/Superjim/memeory-card-game)
 
 [Battleships](https://github.com/Superjim/battleships-test)
 
