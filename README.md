@@ -2,6 +2,8 @@
 
 [Pokemon Memory Card Game](https://github.com/Superjim/memeory-card-game)
 
+[Online Shop](https://github.com/Superjim/shopping-website)
+
 [Battleships](https://github.com/Superjim/battleships-test)
 
 [Restaurant Website](https://github.com/Superjim/Restaurant-Page)
