@@ -1,16 +1,17 @@
-👋 Hi, I’m @Superjim
+## 👋 Hi, I’m Superjim
 
-[Battleships Online](https://github.com/Superjim/battleships-online)
+
+### Northcoders Bootcamp
+
+[nc-news](https://github.com/Superjim/nc-news)
+
+### Old personal projects
 
 [Pokemon Memory Card Game](https://github.com/Superjim/memeory-card-game)
-
-[Online Shop](https://github.com/Superjim/shopping-website)
 
 [Battleships](https://github.com/Superjim/battleships-test)
 
 [Restaurant Website](https://github.com/Superjim/Restaurant-Page)
-
-[Food Database App](https://github.com/Superjim/CRUD-Food-database-website)
 
 [Library](https://github.com/Superjim/Library)
 
