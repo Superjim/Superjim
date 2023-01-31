@@ -5,9 +5,9 @@
 
 [nc-news](https://github.com/Superjim/nc-news)
 
-### Old personal projects
+[Pokemon Memory Card Game](https://github.com/Superjim/pokemon-memory-v2)
 
-[Pokemon Memory Card Game](https://github.com/Superjim/memeory-card-game)
+### Old personal projects
 
 [Battleships](https://github.com/Superjim/battleships-test)
 
