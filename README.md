@@ -15,7 +15,7 @@ __NC-News Back-end Project:__ [nc-news](https://github.com/Superjim/nc-news)
 - Implemented GET / POST / PATCH / DELETE routes with optional sorting parameters (sort_by, order, topic, limit, pagination)
 - Wrote clear and concise documentation for database setup and endpoint use
     
-__Pokemon Memory Game:__ [Pokemon Memory Card Game](https://github.com/Superjim/pokemon-memory-v2)
+__Pokemon Memory Game:__ [ pokemon-memory-v2](https://github.com/Superjim/pokemon-memory-v2)
 - Utilized React, Firebase, and PokeAPI to create a dynamic, interactive game
 - Enabled players to choose difficulty level and any combination of generations
 - Incorporated Firebase authentication for secure logging in/out and high score storage
