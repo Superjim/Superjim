@@ -4,7 +4,10 @@
 ### Northcoders Bootcamp
 
 __NC-News Frontend project:__ [nc-news-fe](https://github.com/Superjim/nc-news-fe)
-
+- Developed a dynamic, user friendly web application for displaying articles on various topics, with features for sorting, ordering, and filtering 
+- Allowed users to view articles with sorting options such as date, comment count, and votes and to upvote/downvote articles and comments
+- Incorporated step-through forms with optimistic rendering
+- Implemented responsive design for a range of devices using media queries
 
 __NC-News Back-end Project:__ [nc-news](https://github.com/Superjim/nc-news)
 - Designed NC-News back-end to mimic a real-world service like Reddit
