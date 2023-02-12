@@ -29,8 +29,6 @@ __Pokemon Memory Game:__ [ pokemon-memory-v2](https://github.com/Superjim/pokemo
 
 [Library](https://github.com/Superjim/Library)
 
-[Weather App](https://github.com/Superjim/Weather-App)
-
 [Admin Dashboard](https://github.com/Superjim/Admin-Dashboard)
 
 [Rock Paper Scissors](https://github.com/Superjim/RockPaperScissors)
